@@ -9,7 +9,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaybuilds14&theme=tokyonight)
 
 ## Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,express,nodejs,nextjs,react,tailwind,supabse,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,express,nodejs,nextjs,react,tailwind,supabase,firebase,postgres,mongodb)](https://skillicons.dev)
 
 ## Reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvetanmay276@gmail.com)
