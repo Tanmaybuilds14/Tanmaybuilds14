@@ -5,8 +5,8 @@
 - Learning AI/ML
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanmaybuilds14)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Tanmaybuilds14)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanmaybuilds14&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Tanmaybuilds14&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,express,nodejs,nextjs,react,tailwind,supabase,firebase,postgres,mongodb)](https://skillicons.dev)
